@@ -14,4 +14,4 @@ It is a simple drum application. Operation can be done via mouse or assigned key
 
 ## Screnshots
 
-![Get a drink](https://github.com/huseyineskan/drum-machine/blob/main/src/drum.png)
+![Get a drink](https://github.com/huseyineskan/drum-machine/blob/main/src/assets/drum.png)
