@@ -4,7 +4,7 @@ import Drum from "./components/Drum";
 function App() {
   return (
     <>
-      <h1>Drum Machine</h1>
+      <h1>Drum Machine🥁</h1>
       <Drum />
     </>
   );
